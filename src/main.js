@@ -7,6 +7,7 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 import router from './router'
 
 import App from './App.vue'
+import './registerServiceWorker'
 
 Vue.use(BootstrapVue)
 Vue.use(IconsPlugin)
